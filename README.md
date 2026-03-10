@@ -1,2 +1,7 @@
-# CS2-
-适用于Steam-CMD下更新 Counter-Strike 2 (CS2) 专用服务器的标准脚本
+# CS2-服务器更新脚本
+适用于Steam-CMD下更新 Counter-Strike 2 (CS2) 专用服务器的脚本
+## 使用前必须满足的条件
+<p>在运行此脚本前，请确保以下几点，否则脚本会报错：</p>
+<p>SteamCMD 已下载: 你必须已经下载了 steamcmd.exe。</p>
+<p>文件位置: steamcmd.exe 必须与这个 .bat 脚本放在同一个文件夹内（因为脚本里直接调用了 steamcmd.exe 而没有写完整路径）。</p>
+<p>磁盘空间: 确保盘内有足够的空间（CS2 服务器文件较大）。</p>
